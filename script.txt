@@ -1,2 +1,2 @@
 varenik = tisto+kartopl9
-consle.log('Test2')
+consle.log('Test!!!!!!!!!!!2')
