@@ -1,1 +1,2 @@
 varenik = tisto+kartopl9
+consle.log('Test2')
